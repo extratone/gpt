@@ -2,7 +2,7 @@
 
 ## This repository contains records of my conversations with OpenAI's silly text generation robot in multiple file formats. 
 
-If you're more curious about the content of the conversations themselves, check out [the HTML index on my TildeTown](https://tilde.town/~/extratone/gpt). (An unindexed mirror is maintained here via GitHub Pages.)
+If you're more curious about the content of the conversations themselves, check out [the HTML index on my TildeTown](https://tilde.town/~/extratone/gpt). (A [mirror](https://extratone.github.io/gpt) is maintained here via GitHub Pages.)
 
 *As of right now, these are exclusively sourced from conversations with the free, third(?) version available at [chat.openai.com](https://chat.openai.com).*
 
