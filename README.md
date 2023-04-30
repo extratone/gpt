@@ -1,26 +1,13 @@
-# David Blue's GitHub Repository Template
-Updated `08092022-233310`
+# Gee Pee Tee
 
-- [**GitHub**](https://github.com/extratone/latte)
-- [WTF](https://davidblue.wtf/drafts/745BCB94-CE46-4509-A7E0-7566F8DDDF23.html)
-- [WTF Shortlink](https://davidblue.wtf/latte) - `https://davidblue.wtf/latte`
-- [~](https://tilde.town/~extratone/misc/latte)
-- [Things](things:///show?id=8bnNqdTt7bupYXTbmD1SbE)
+## This repository contains records of my conversations with OpenAI's silly text generation robot in multiple file formats. 
 
----
+If you're more curious about the content of the conversations themselves, check out [the HTML index on my TildeTown](https://tilde.town/~/extratone/gpt). (An unindexed mirror is maintained here via GitHub Pages.)
 
-![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
+*As of right now, these are exclusively sourced from conversations with the free, third(?) version available at [chat.openai.com](https://chat.openai.com).*
 
-***Latte*** is a GitHub Repository Template created specifically for use by [David Blue](/DavidBlue.vcf) (that’s me, howdy,) but open to any and all use/misuse/defilement as per [its license](/LICENSE.md).
+## Methodology
 
-To be honest, I’m almost positive the name was really clever but I cannot for the life of me remember what the fuck I meant.
+I used [@pionxzsh's ChatGPTExporter Userscript](https://github.com/pionxzh/chatgpt-exporter) running in @quoid's [Userscripts Safari Extension](https://github.com/quoid/userscripts) to export the history of my chats in all available formats. My configuration is depicted in the screenshot embedded below.
 
-### Contact me for whatever reason
-
-- [Contact Card](https://davidblue.wtf/db.vcf)
-- [Telegram](https://t.me/extratone)
-- [Email](mailto:davidblue@extratone.com) 
-- [Twitter](https://twitter.com/NeoYokel)
-- [Mastodon](https://mastodon.social/@DavidBlue)
-- [Discord](https://discord.gg/0b9KQUKP858b0iZF)
-- [*Everywhere*](https://raindrop.io/davidblue/social-directory-21059174)...
+![ChatGPTExporter Configuration](https://user-images.githubusercontent.com/43663476/235367743-36bf3357-4435-421d-8c7d-a28dae4b222f.jpeg)
